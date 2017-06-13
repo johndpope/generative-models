@@ -35,7 +35,7 @@ Generated samples will be stored in `GAN/{gan_model}/out` or `VAE/{vae_model}/ou
 
 ## Dependencies
 
-1. Install miniconda <http://conda.pydata.org/miniconda.html>
+1. Install miniconda <http://conda.pydata.org/miniconda.html> | CONDA CHEATSHEET https://gist.github.com/florentpietot/4eb598a8aac93834d4ca010a5f4a4412
 2. Do `conda env create`
 3. Enter the env `source activate generative-models`
 4. Install [Tensorflow](https://www.tensorflow.org/get_started/os_setup)
